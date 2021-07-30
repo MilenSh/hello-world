@@ -1,2 +1,7 @@
 # hello-world
-Just learning
+
+
+Hello people,
+
+Don't pay much attention to this. 
+Just learning github.
